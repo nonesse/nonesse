@@ -33,7 +33,7 @@ technical_knowledge = {
 - Pursuing constant improvement
 
 <div align="center">
-  <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonesse&layout=compact&langs_count=8&theme=blue_navy"/>
+  <img height="200px" width="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonesse&layout=compact&langs_count=5&theme=neon"/>
 </div>
 
 ## 
