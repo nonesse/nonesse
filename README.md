@@ -16,7 +16,7 @@ technical_knowledge = {
 
 ```
 
-### 🔍Currently looking for Cybersecurity Roles!
+### 🔍Currently seeking opportunities in Cybersecurity!
 - I’m currently working on applying my development knowledge to the cybersecurity field
 - I’m currently learning python hacking 💀
 
@@ -25,10 +25,11 @@ technical_knowledge = {
 - Completed my investment Android application
 
 ### ✔️I excel at...
-- Identifying problems and finding effective solutions.
+- Identifying problems and finding effective solutions
 - Adapting to new technologies
 - Applying best practices
 - Learning quickly
+- Balancing independent tasks with effective teamwork
 - Pursuing constant improvement
 
 <div align="center">
