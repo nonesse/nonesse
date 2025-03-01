@@ -1,6 +1,6 @@
 ## Hello!👋 
 
-**I am a software developer** **w**69**th 2+ years** 6F 66 **experience an**64 **a strong passion for cybersecurity, whic**68 **I pursue** **profes**73 69**on**61**lly.**
+**I am a software developer** **w**69**th 2+ years** 6F**f experience an**64 **a strong passion for cybersecurity, whic**68 **I pursue** **profess**69**on**61**lly.**
 
 ```python
 knowledge = {
