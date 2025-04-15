@@ -1,6 +1,6 @@
 ## Hello!👋 
 
-**I am a software developer** **w**69**th 2+ years** 6F**f experience an**64 **a strong passion for cybersecurity, whic**68 **I pursue** **profess**69**on**61**lly.**
+**I am a software developer** **w**69**th a strong passion for c**79**bersecurit**79.
 
 ```python
 knowledge = {
@@ -13,10 +13,9 @@ knowledge = {
 ```
 
 ## 🎖️Latest Achievements
+- Obtained **Palo Alto Cloud Security Fundamentals** certification.
 - Obtained **CompTIA Security+ SY0-701** certification.
 - Completed my investment Android application.
-  
-### 🔍**Currently seeking opportunities in Cybersecurity!**
 
 ##
 
