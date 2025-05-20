@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hello!👋 
 
-<!--
-**nonesse/nonesse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**I am a software developer** **w**69**th a strong passion for c**79**bersecurit**79.
 
-Here are some ideas to get you started:
+```python
+knowledge = {
+    "tech_stack": ["Java", "Python", "Kotlin", "SQL PL", "Spring Boot", "Docker"],
+    "architecture": ["Microservices", "MVVM"],
+    "best_practices": ["Clean Code", "Clean Architecture", "Design Patterns", "TDD"],
+    "compTIA_security_plus": ["Security Principles", "IAM", "Network Security", "Cryptography", "Incident Analysis"]
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+
+## 🎖️Latest Achievements
+- Obtained **Palo Alto Cloud Security Fundamentals** certification.
+- Obtained **CompTIA Security+ SY0-701** certification.
+- Completed my investment Android application.
+
+##
+
+<div align="center">
+  <img height="200px" width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nonesse&layout=compact&langs_count=5&theme=github_dark"/>
+</div>
+
